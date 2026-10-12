@@ -65,8 +65,8 @@ cd blockchain-ai-drug-repurposing
 ### 2. Create and Activate the Conda Environment
 
 ```bash
-conda create -n drug_env2 python=3.10 -y
-conda activate drug_env2
+conda create -n drug_env python=3.10 -y
+conda activate drug_env
 ```
 
 ### 3. Install RDKit
